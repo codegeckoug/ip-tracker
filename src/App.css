@@ -167,9 +167,10 @@ html,
   .info-card {
     grid-template-columns: 1fr;
     text-align: center;
+
     padding: 1.2rem;
     gap: 1rem;
-    bottom: -6rem; /* push card lower into map */
+    bottom: -9rem; /* push card lower into map */
   }
 
   .info-card div {
